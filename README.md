@@ -9,7 +9,10 @@ This repository contains the code and notes for my learning path in machine lear
 ### Vectors, Matrices, and Arrays
 **Filename:** `LML_1.ipynb`
 - **Description:** This Jupyter Notebook demonstrates fundamental NumPy operations. It includes creating and manipulating vectors and matrices, converting matrices to sparse formats, performing element-wise operations, and reshaping arrays. It also covers matrix properties like rank and determinant, along with generating random values and calculating eigenvalues. This notebook provides a comprehensive overview of basic NumPy functionality for data manipulation and analysis.
-
-
+### Loading Data
+**Filename:** `LML_2.ipynb`
+### Vectors, Matrices, and Arrays
+- The `LML_2.ipynb` notebook demonstrates loading sample and simulated datasets, visualizing data with scatter plots, and handling data from CSV, Excel, JSON files, and SQL databases using Python.
+  
 ## Projects
 Stay tuned! Projects and code will be added as I learn and progress.
